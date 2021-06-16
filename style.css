@@ -18,7 +18,7 @@ section h1 {
 	line-height: 100vh;
 	font-size: 10vw;
 	color: #fff;
-  text-transform: uppercase;
+	text-transform: uppercase;
 	text-shadow: 2px 2px #cfc6c3, 3px 3px #d1c5c0, 4px 4px #d1c2bc;
 }
 /* .shadow {
@@ -64,7 +64,7 @@ section h1 {
 	}
 	50% {
 		opacity: 1;
-		background: url("cake1.JPG");
+		background: url("./shreya2.png");
 		background-position: center;
 		background-attachment: fixed;
 		background-size: contain;
@@ -72,30 +72,30 @@ section h1 {
 	100% {
 		opacity: 1;
 		transform: scale(1) translateY(0);
-		background: url("cake1.JPG");
+		background: url("./shreya2.png");
 		background-position: center;
 		background-attachment: fixed;
 		background-size: contain;
 	}
 }
 
-.footer{
-	display:flex;
+.footer {
+	display: flex;
 	flex-direction: row;
 	align-items: center;
 	justify-content: center;
 	background-color: antiquewhite;
 	width: 100%;
-	height:20vh;
+	height: 20vh;
 }
-.footer-style{
-	display:flex;
+.footer-style {
+	display: flex;
 	align-items: center;
 	list-style: decimal-leading-zero;
 	width: 100%;
 	justify-content: space-evenly;
 }
-.footer-style a{
+.footer-style a {
 	list-style: none;
 	text-decoration: none;
 }
