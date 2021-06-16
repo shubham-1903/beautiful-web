@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background: url("./9.JPG");
+  background-size: cover;
+  padding: 50px;
+}
+
+.swiper-container {
+  width: 500px;
+  height: 500px;
+}
+
+.swiper-container .swiper-slide {
+  background-size: cover;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  font-size: 2em;
+}
+/*# sourceMappingURL=style15.css.map */
