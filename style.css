@@ -78,3 +78,10 @@ section h1 {
 		background-size: contain;
 	}
 }
+#tree{
+	position : absolute;
+	width : 30px;
+	height : 30px;
+	border-radius : 3px;
+	border: 5px solid red;
+}
